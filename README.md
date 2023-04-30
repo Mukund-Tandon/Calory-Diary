@@ -1,16 +1,17 @@
 # calory
 
-A new Flutter project.
+• Developed a Calorie Diary App to keep track of Calorie intake and Burned
 
-## Getting Started
+• All data is stored on the users phone using SQLite Database
 
-This project is a starting point for a Flutter application.
+• User can also see the entries of any date
 
-A few resources to get you started if this is your first Flutter project:
+App Images-
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![WhatsApp Image 2023-04-30 at 5 40 33 PM](https://user-images.githubusercontent.com/71614009/235352444-b7432333-82cc-49d1-ab7d-01759fab53a5.jpeg)
+![WhatsApp Image 2023-04-30 at 5 40 33 PM (1)](https://user-images.githubusercontent.com/71614009/235352455-0cf0449c-bed0-48dd-893b-ea7de4f060af.jpeg)
+![WhatsApp Image 2023-04-30 at 5 40 33 PM (3)](https://user-images.githubusercontent.com/71614009/235352461-291106e3-b3e2-45f1-8587-9f50a9878fa2.jpeg)
+![WhatsApp Image 2023-04-30 at 5 40 33 PM (2)](https://user-images.githubusercontent.com/71614009/235352469-c0758e04-18dd-423b-a299-c25019e05b75.jpeg)
+![WhatsApp Image 2023-04-30 at 5 40 33 PM (4)](https://user-images.githubusercontent.com/71614009/235352490-f755f308-b64b-48ed-886c-43e1c6bf5620.jpeg)
+![WhatsApp Image 2023-04-30 at 5 40 33 PM (5)](https://user-images.githubusercontent.com/71614009/235352501-9b9d0877-cd38-4e38-9ad5-e6684f33d07d.jpeg)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
